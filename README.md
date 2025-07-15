@@ -23,7 +23,7 @@ An intelligent, voice-enabled medical chatbot that listens to the user, analyzes
 
 ---
 
-##🔮 Future Improvements
+## 🔮 Future Improvements
 
 - Add multilingual support (Hindi, Spanish, etc.)
 - Enable real-time webcam image input
